@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1538430004 source:d:\projetos\unisc\2018-2\edii\trabalho3\arvoreb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538443018 source:c:\users\m22350.labinfo\downloads\arvoreb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1538770962 source:e:\wk\unisc\2018-02\edii\trabalho3\arvoreb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+
