@@ -6,4 +6,8 @@ https://www.cs.usfca.edu/~galles/visualization/BTree.html
 
 Este projeto foi criado na IDE C CodeBlocks.
 
+![Screenshot](screenshot-grau3_1.png)
 
+![Screenshot](screenshot-grau3_2.png)
+
+![Screenshot](screenshot-grau5.png)
