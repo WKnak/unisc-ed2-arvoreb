@@ -10,4 +10,6 @@ Este projeto foi criado na IDE C CodeBlocks.
 
 ![Screenshot](screenshot-grau3_2.png)
 
+Tem algum probleminha no algoritmo. ;-)
+
 ![Screenshot](screenshot-grau5.png)
